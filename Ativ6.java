@@ -1,6 +1,3 @@
-
-package exercicios_ava;
-
 import java.util.Scanner;
 
 public class Ativ6 {

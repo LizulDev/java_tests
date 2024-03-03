@@ -1,4 +1,3 @@
-package exercicios_ava;
 
 public class Ativ2 {
     public static void main(String[] args) {
